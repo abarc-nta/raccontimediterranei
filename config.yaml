@@ -32,6 +32,8 @@ params:
       landing: true
     - icon: "fab fa-instagram fa-lg"
       url: "https://www.instagram.com/accademiabelleartirc/"
+    - icon: "fab fa-youtube fa-lg"
+      url: "https://www.youtube.com/channel/UCxqaMJYfzAX5-Xr4_bQ5uqg/featured"
   homepage: "/work" # homepage link, mostly same with menu.main[0]
   specialPages:
     - work
@@ -60,12 +62,6 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: people
-      url: /tags/people/
-      weight: 2
-    - name: nature
-      url: /tags/nature/
-      weight: 3
     - name: archive
       url: /tags/archive/
       weight: 4
