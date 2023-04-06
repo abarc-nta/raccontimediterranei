@@ -39,7 +39,7 @@ params:
     - work
     - archive
   bypassWelcomePage: false
-  disableWelcomePageBackground: false
+  disableWelcomePageBackground: true
   plausible: "" # todo: set your plausible id.
   disableRadius: true
   moveIt: false
