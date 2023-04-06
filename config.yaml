@@ -1,4 +1,4 @@
-baseURL: https://raccontimediterranei.abarc.it # todo: change site url.
+baseURL: https://abarc-nta.github.io/raccontimediterranei
 title: Tra le terre, il mar
 defaultContentLanguage: "it"
 theme: eternity
