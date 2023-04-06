@@ -3,6 +3,7 @@ title: Tra le terre, il mar
 defaultContentLanguage: "it"
 theme: eternity
 googleAnalytics: "" # todo: set your analytics id.
+publishDir: docs
 
 params:
   image: /images/banner.png
