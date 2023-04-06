@@ -14,11 +14,11 @@ params:
   portfolio:
     columns:
       desktop:
-        archive: 4
+        archive: 5
         default: 3
       mobile:
         default: 2
-        archive: 3
+        archive: 4
   socials:
     # todo: change these links.
     - icon: "far fa-envelope fa-lg"
@@ -33,15 +33,15 @@ params:
     - icon: "fab fa-youtube fa-lg"
       url: "https://www.youtube.com/channel/UCxqaMJYfzAX5-Xr4_bQ5uqg/featured"
       landing: true
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  homepage: "/work"
   specialPages:
     - work
     - archive
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
+  bypassWelcomePage: false
+  disableWelcomePageBackground: false
   plausible: "" # todo: set your plausible id.
   disableRadius: true
-  moveIt: false # Moves Title and Meta info down, only visible when scroll.
+  moveIt: false
   disableAlwaysResize: false
 
 markup:
