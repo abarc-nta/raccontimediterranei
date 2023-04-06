@@ -13,9 +13,10 @@ hideDate: true
 #### Mostra d'arte della collezione ABARC al Castello Ruffo di Scilla
 
 <br />
-Si pone come una mostra-esperimento, in cui le opere non sono semplicemente esposte,
-ma interamente integrate in un ambiente. Ogni porzione di mostra è presentata come una “situazione”,
-capace di estendere l’opera stessa e lo spettatore in una continua e ulteriore suggestione concettuale.
+Si pone come una mostra-esperimento, in cui le opere non sono semplicemente esposte, 
+ma interamente integrate in un ambiente. Ogni porzione 
+di mostra è presentata come una “situazione”, capace di estendere l’opera stessa e 
+lo spettatore in una continua e ulteriore suggestione concettuale.
 
 Mostra d’arte della collezione ABARC<br />
 a cura dei proff. **Remo Malice** e **Marcello Francolini**.
