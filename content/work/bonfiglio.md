@@ -8,7 +8,8 @@ images:
   - /images/bonfiglio_4.jpeg
   - /images/bonfiglio_5.jpeg
   - /images/bonfiglio_6.jpeg
-multipleColumn: true
+  - /images/bonfiglio_8.jpeg
+multipleColumn: false
 title: Antonio Bonfiglio
 tags:
   - work # homepage
@@ -20,6 +21,7 @@ tags:
 (Messina, 1895 – Condrò, 1995)<br />
 Teste<br />
 XX secolo, secondo quarto<br />
+Estensione di Antonio Zappone<br />
 
 Antonio Bonfiglio, valido esponente dell’arte siciliana del Novecento,
 compie i suoi studi tra Catania e Roma e nel 1922 consegue il titolo di
